@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-nation-3d-2022",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@alvarosabu/prettier-config": "^1.2.0",
+    "@alvarosabu/ui": "^2.18.0",
+    "@iconify-json/logos": "^1.1.18",
+    "@slidev/cli": "^0.36.11",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "sass": "^1.56.1",
+    "slidev-theme-penguin": "^1.6.1"
+  },
+  "devDependencies": {
+    "@iconify-json/simple-icons": "^1.1.31",
+    "@tresjs/cientos": "^0.1.1",
+    "@tresjs/core": "^0.2.1",
+    "three": "^0.146.0"
+  }
+}
